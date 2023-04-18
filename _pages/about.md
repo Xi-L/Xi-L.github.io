@@ -9,9 +9,9 @@ profile:
   image: xi_lin_v2.jpg
   image_circular: true # crops the image to make it circular
   address: >
-<!--     <p>G7317, AC1</p>
-    <p>City University of Hong Kong</p>
-    <p>Hong Kong</p> -->
+    #<p>G7317, AC1</p>
+    #<p>City University of Hong Kong</p>
+    #<p>Hong Kong</p> 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
