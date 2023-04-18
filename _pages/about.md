@@ -8,10 +8,7 @@ profile:
   align: right
   image: xi_lin_v2.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    #<p>G7317, AC1</p>
-    #<p>City University of Hong Kong</p>
-    #<p>Hong Kong</p> 
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Xi Lin is currently a Post Doctoral Research Fellow with the Department of Computer Science at the City University of Hong Kong. He received the B.Sc. Degree in 2013 from South China University of Technology, the M.A. degree in 2015 from Columbia University, and the Ph.D. degree in 2020 from City University of Hong Kong under the supervision of Prof. Qingfu Zhang.
+Xi Lin is currently a Post Doctoral Research Fellow with the Department of Computer Science at the City University of Hong Kong. He received the B.Sc. degree in 2013 from South China University of Technology, the M.A. degree in 2015 from Columbia University, and the Ph.D. degree in 2020 from City University of Hong Kong under the supervision of Prof. Qingfu Zhang.
 
 His research interests include multi-objective optimization, multi-task learning, Bayesian optimization, evolutionary computation, and learning for optimization. His work has been published in top-tier machine learning conferences such as Conference on Neural Information Processing Systems (NeurIPS) and International Conference on Learning Representations (ICLR). He is a regular reviewer for top-tier machine learning and evolutionary computation conferences/journals, such as NeurIPS, ICML, ICLR, CEC, GECCO, JMLR, TMLR, and TEVC, and has received multiple top reviewer awards from ICML and ICLR. 
 
