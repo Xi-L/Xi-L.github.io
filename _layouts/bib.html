@@ -125,7 +125,7 @@
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.oral -%}
-          {%- capture entryoral -%}{{ " " }}<b>{{entry.oral}}</b> {%- endcapture -%}
+          {%- capture entryoral -%}{{ " " }}<b>{{entry.oral}}</b>{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}{%- endif -%}{{ entrymonth }}{{ entryyear }}{{ entryoral }}{%- endcapture -%}
