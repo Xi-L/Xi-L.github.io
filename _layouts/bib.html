@@ -107,8 +107,8 @@
         </div>
 
         <!-- Journal/Book title and date -->
-        {% assign proceedings = "inproceedings,incollection" | split: ','%}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
+        {% assign proceedings = "inproceedings,incollection" %}
+        {% assign thesis = "thesis,mastersthesis,phdthesis" %}
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
@@ -124,8 +124,11 @@
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
+        {%- if entry.oral -%}
+          {%- capture entryoral -%}<b>{{entry.oral}}</b> {%- endcapture -%}
+        {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}{%- endif -%}{{ entrymonth }}{{ entryyear }}{{ entryoral }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
