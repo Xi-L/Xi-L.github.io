@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Pareto Set Learning for Expensive Multi-Objective Optimization" was accepted by NeurIPS 2022.
+Our paper entitled [Pareto Set Learning for Expensive Multi-Objective Optimization](https://openreview.net/forum?id=vriLTB2-O0G) was accepted by NeurIPS 2022.
