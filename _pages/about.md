@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Xi Lin is currently a Post Doctoral Research Fellow with [Department of Computer Science](https://www.cs.cityu.edu.hk/) at the City University of Hong Kong. He received the B.Sc. degree from [South China University of Technology](https://www.scut.edu.cn/en/), the M.A. degree from [Columbia University](https://www.columbia.edu/), and the Ph.D. degree from [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of Prof. [Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html).
 
-His research interests include multi-objective optimization, multi-task learning, Bayesian optimization, evolutionary computation, and learning to optimize. His work has been published in top-tier machine learning conferences such as ICML, NeurIPS and ICLR. He is a regular reviewer for many machine learning and evolutionary computation conferences/journals, and has received several outstanding reviewer awards from ICML and ICLR. 
+His research interests include multi-objective optimization, multi-task learning, Bayesian optimization, evolutionary computation, and learning to optimize. His work has been published in top-tier machine learning conferences such as ICML, NeurIPS and ICLR. He is a regular reviewer for many machine learning and evolutionary computation conferences and journals, and has received several outstanding reviewer awards from ICML and ICLR. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
