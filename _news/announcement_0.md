@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as the Outstanding Reviewer of ICML 2022.
+I was selected as an Outstanding Reviewer of ICML 2022.
