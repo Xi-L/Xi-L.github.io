@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as the Highlighted Reviewer of ICLR 2022.
+I was selected as a Highlighted Reviewer of ICLR 2022.
