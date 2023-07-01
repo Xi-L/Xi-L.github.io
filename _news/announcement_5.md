@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper entitled [Continuation Path Learning for Homotopy Optimization]() was accepted by ICML 2023 as **oral presentation**.
+Our paper entitled [Continuation Path Learning for Homotopy Optimization](https://openreview.net/forum?id=BTGTEEkPsV) was accepted by ICML 2023 as **oral presentation**.
