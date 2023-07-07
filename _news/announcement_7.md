@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as an Action Chair for [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/) starting from July 2023.
+I will serve as an Action Editor for [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/) starting from July 2023.
