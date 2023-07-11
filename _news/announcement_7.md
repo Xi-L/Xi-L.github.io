@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I serve as an Action Editor for [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/) starting from July 2023.
+I serve as an [Action Editor](https://jmlr.org/tmlr/editorial-board.html) for [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/) starting from July 2023.
