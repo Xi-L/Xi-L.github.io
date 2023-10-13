@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper entitled [Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization]() was accepted by NeurIPS 2023. 
+Our paper entitled [Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization](https://arxiv.org/abs/2310.07985) was accepted by NeurIPS 2023. 
